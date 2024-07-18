@@ -1,0 +1,16 @@
+{"bgCover":"0","isCut":"1","rotation":"90","items":[{"width":"824","height":"500","rotation":"90","left":"645","left_2":null,"top":"66","top_2":null,"repeat":"1"},{"width":"824","height":"500","rotation":"90","left":"645","left_2":null,"top":"970","top_2":null,"repeat":"1"},{"width":"824","height":"500","rotation":"90","left":"100","left_2":null,"top":"66","top_2":null,"repeat":"1"},{"width":"824","height":"500","rotation":"90","left":"100","left_2":null,"top":"970","top_2":null,"repeat":"1"}]}
+
+
+{"bgCover":"0","isCut":"1","rotation":"90","items":[
+{"width":"724","height":"500","rotation":"90","left":"605","left_2":null,"top":"66","top_2":null,"repeat":"1"},
+{"width":"724","height":"500","rotation":"90","left":"605","left_2":null,"top":"970","top_2":null,"repeat":"1"},
+{"width":"724","height":"500","rotation":"90","left":"100","left_2":null,"top":"66","top_2":null,"repeat":"1"},
+{"width":"724","height":"500","rotation":"90","left":"90","left_2":null,"top":"970","top_2":null,"repeat":"1"}]}
+
+
+
+
+
+
+纯色
+{"bgCover":"1","isCut":"1","rotation":"90","photograph":"0","items":[ {"width":"846","height":"465","rotation":"90","left":"96","left_2":"0","top":"48","top_2":"0","repeat":"1"}, {"width":"846","height":"465","rotation":"90","left":"96","left_2":"0","top":"946","top_2":"0","repeat":"1"}, {"width":"846","height":"465","rotation":"90","left":"656","left_2":"0","top":"48","top_2":"0","repeat":"1"}, {"width":"846","height":"465","rotation":"90","left":"656","left_2":"0","top":"946","top_2":"0","repeat":"1"}]}

@@ -1,0 +1,12 @@
+1
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1136","height":"1300","rotation":"0","left":"50","left_2":null,"top":"56","top_2":null,"repeat":"1"}]}
+2
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1136","height":"1300","rotation":"0","left":"50","left_2":null,"top":"56","top_2":null,"repeat":"1"}]}
+3
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1136","height":"1300","rotation":"0","left":"50","left_2":null,"top":"56","top_2":null,"repeat":"1"}]}
+4
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1136","height":"1300","rotation":"0","left":"50","left_2":null,"top":"56","top_2":null,"repeat":"1"}]}
+5
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1136","height":"1300","rotation":"0","left":"50","left_2":null,"top":"56","top_2":null,"repeat":"1"}]}
+6
+{"bgCover":"0","isCut":"1","rotation":"0","items":[{"width":"1150","height":"1350","rotation":"0","left":"50","left_2":null,"top":"36","top_2":null,"repeat":"1"}]}

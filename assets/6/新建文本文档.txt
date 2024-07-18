@@ -1,0 +1,4 @@
+{"bgCover":"0","isCut":"1","rotation":"90","items":[{"width":"550","height":"500","rotation":"90","left":"90","left_2":"636","top":"68","top_2":"68","repeat":"0"},{"width":"550","height":"500","rotation":"90","left":"90","left_2":"636","top":"650","top_2":"650","repeat":"0"},{"width":"550","height":"500","rotation":"90","left":"90","left_2":"636","top":"1236","top_2":"1236","repeat":"0"}]}
+
+纯
+{"bgCover":"1","isCut":"1","rotation":"90","items":[{"width":"560","height":"500","rotation":"90","left":"90","left_2":"610","top":"47","top_2":"47","repeat":"0"},{"width":"560","height":"500","rotation":"90","left":"90","left_2":"610","top":"644","top_2":"644","repeat":"0"},{"width":"560","height":"500","rotation":"90","left":"90","left_2":"610","top":"1236","top_2":"1236","repeat":"0"}]}
